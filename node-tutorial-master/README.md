@@ -36,8 +36,3 @@ Open the `authHelper.js` file. Replace the `YOUR APP ID HERE` with the applicati
 ## Copyright ##
 
 Copyright (c) Microsoft. All rights reserved.
-
-----------
-Connect with me on Twitter [@JasonJohMSFT](https://twitter.com/JasonJohMSFT)
-
-Follow the [Exchange Dev Blog](https://blogs.msdn.microsoft.com/exchangedev/)
